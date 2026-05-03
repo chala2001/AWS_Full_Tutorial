@@ -57,4 +57,4 @@ A **Serverless URL Shortener** — a full-stack web application using:
 4. **Always run the cleanup section** at the end of each part
 5. Check your AWS billing dashboard regularly
 
-**Happy Learning! 🎉**
+**Happy Learning! with Chalaka 🎉**
