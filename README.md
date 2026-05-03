@@ -1,6 +1,6 @@
 # 🚀 AWS Mastery: The Ultimate Zero-to-Hero Guide
 
-![AWS Tutorial Banner](file:///C:/Users/ASUS/.gemini/antigravity/brain/1a81a6ec-e2f7-4faa-ae2c-c35ea0469422/aws_tutorial_banner_1777818121223.png)
+
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
